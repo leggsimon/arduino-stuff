@@ -1,4 +1,5 @@
 {
     "board": "arduino:avr:uno",
-    "port": "/dev/tty.usbmodem14101"
+    "port": "/dev/tty.usbmodem14101",
+    "sketch": "05-mood-cue/05-mood-cue.ino"
 }
